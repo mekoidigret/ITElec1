@@ -1,0 +1,19 @@
+{
+  "name": "itelec1",
+  "version": "1.0.0",
+  "description": "Project for ITElec1 Subject for Sir Siruelo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mekoidigret/itelec1.git"
+  },
+  "author": "John Michael Manlupig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mekoidigret/itelec1/issues"
+  },
+  "homepage": "https://github.com/mekoidigret/itelec1#readme"
+}
